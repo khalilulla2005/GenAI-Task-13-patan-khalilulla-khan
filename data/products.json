@@ -1,0 +1,74 @@
+[
+  {
+    "product_id": 1,
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": "19.99",
+    "stock": "120",
+    "rating": 4.5,
+    "in_stock": true
+  },
+  {
+    "product_id": 2,
+    "name": "Mechanical Keyboard",
+    "category": "Electronics",
+    "price": "59.50",
+    "stock": "45",
+    "rating": 4.8,
+    "in_stock": true
+  },
+  {
+    "product_id": 3,
+    "name": "USB-C Cable",
+    "category": "Accessories",
+    "price": "7.25",
+    "stock": "300",
+    "rating": 4.1,
+    "in_stock": true
+  },
+  {
+    "product_id": 4,
+    "name": "Laptop Stand",
+    "category": "Accessories",
+    "price": "29.99",
+    "stock": "0",
+    "rating": 4.3,
+    "in_stock": false
+  },
+  {
+    "product_id": 5,
+    "name": "HD Webcam",
+    "category": "Electronics",
+    "price": "49.00",
+    "stock": "18",
+    "rating": 4.6,
+    "in_stock": true
+  },
+  {
+    "product_id": 6,
+    "name": "Desk Lamp",
+    "category": "Home",
+    "price": "15.75",
+    "stock": "60",
+    "rating": 4.0,
+    "in_stock": true
+  },
+  {
+    "product_id": 7,
+    "name": "Notebook Set",
+    "category": "Stationery",
+    "price": "9.99",
+    "stock": "150",
+    "rating": null,
+    "in_stock": true
+  },
+  {
+    "product_id": 8,
+    "name": "Gel Pens (Pack of 10)",
+    "category": "Stationery",
+    "price": "5.49",
+    "stock": "200",
+    "rating": 4.2,
+    "in_stock": true
+  }
+]
